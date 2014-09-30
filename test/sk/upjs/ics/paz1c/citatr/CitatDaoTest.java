@@ -2,6 +2,7 @@ package sk.upjs.ics.paz1c.citatr;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
+import org.junit.Before;
 
 public class CitatDaoTest {
     private CitatDao citatDao;
