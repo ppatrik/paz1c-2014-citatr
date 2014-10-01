@@ -1,6 +1,8 @@
 package sk.upjs.ics.paz1c.citatr;
 
-public class Citat {
+import java.io.Serializable;
+
+public class Citat implements Serializable {
     private Long id;
     
     private String text;
